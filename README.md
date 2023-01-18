@@ -2,7 +2,6 @@
 
 <div align="center">
   <div>
-  
 <br>
  <img src="https://github-readme-stats.vercel.app/api?username=XandyNinfadora&show_icons=true&theme=cobalt"/>
 </div>
