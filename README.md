@@ -1,6 +1,12 @@
 <h1>Olá! Sou Andrielle e esse é o meu repositório do GitHub!<h1>
 
 <div align="center">
+  <div>
+  
+<br>
+  <a href="https://github.com/XandyNinfadora">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=XandyNinfadora&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
