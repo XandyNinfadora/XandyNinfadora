@@ -4,8 +4,7 @@
   <div>
   
 <br>
-  <a href="https://github.com/XandyNinfadora">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=XandyNinfadora&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+ <img src="https://github-readme-stats.vercel.app/api?XandyNinfadora=anuraghazra&show_icons=true&theme=cobalt"/>
 </div>
 
 <div style="display: inline_block"><br>
