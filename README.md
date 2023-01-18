@@ -4,7 +4,7 @@
   <div>
   
 <br>
- <img src="https://github-readme-stats.vercel.app/api?XandyNinfadora=anuraghazra&show_icons=true&theme=cobalt"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=XandyNinfadora=anuraghazra&show_icons=true&theme=cobalt"/>
 </div>
 
 <div style="display: inline_block"><br>
